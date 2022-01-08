@@ -14,3 +14,5 @@
 
 Le lancement de l’application étant un peu compliqué, je vous conseille d’aller voir la vidéo de démonstration disponible ici:
 https://drive.google.com/file/d/1n_MUJGlSIuL71GSQf9KIAUYidzoLf_6i/view?usp=sharing
+
+Le rapport est disponible [ici](https://github.com/ClementPagran/Upssitech_3A_ID/blob/master/Rapport%20Projet%20ID.pdf)
