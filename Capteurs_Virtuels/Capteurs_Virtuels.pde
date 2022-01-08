@@ -25,7 +25,7 @@ void setup() {
   ag4_Jardin.connect("mqtt://id-ups:18gGuosBo0q8HqJK@id-ups.cloud.shiftr.io", "ag4-Jardin");
   
   ag5_Terasse = new MQTTClient(this);
-  ag5_Terasse.connect("mqtt://id-ups:18gGuosBo0q8HqJK@id-ups.cloud.shiftr.io", "ag5-Terasse");
+  ag5_Terasse.connect("mqtt://id-ups:18gGuosBo0q8HqJK@id-ups.cloud.shiftr.io", "ag5-Terrasse");
 }
 
 void draw() {
